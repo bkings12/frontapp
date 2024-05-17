@@ -10,12 +10,12 @@ app_license = "mit"
 # ------------------
 
 # include js, css files in header of desk.html
-# app_include_css = "/assets/frontapp/css/frontapp.css"
-# app_include_js = "/assets/frontapp/js/frontapp.js"
+app_include_css = "/assets/frontapp/css/style.css"
+app_include_js = "/assets/frontapp/js/main.js"
 
 # include js, css files in header of web template
-# web_include_css = "/assets/frontapp/css/frontapp.css"
-# web_include_js = "/assets/frontapp/js/frontapp.js"
+web_include_css = "/assets/frontapp/css/style.css"
+web_include_js = "/assets/frontapp/js/main.js"
 
 # include custom scss in every website theme (without file extension ".scss")
 # website_theme_scss = "frontapp/public/scss/website"
